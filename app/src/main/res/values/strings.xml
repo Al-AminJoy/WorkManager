@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="channelId">123</string>
+
+</resources>
